@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Sep 2021 - May 2025",
+            "cardTitle": "Software Engineering",
+            "cardSubtitle":"FPT University HCMC",
+            "cardDetailedText": "GPA - 3.0/4",
+            "icon" : {
+                "src": "images/education/dot.png"
+            }
+        }
+    ]
+}
