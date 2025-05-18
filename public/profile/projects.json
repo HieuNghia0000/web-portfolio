@@ -1,23 +1,41 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/dckoi-poster.png",
+            "title": "Koi Pond Construction Ordering System",
+            "bodyText": "The Koi Pond Construction Ordering System streamlines the process of designing and building a Koi pond.\n\nIt addresses key customer challenges such as:\n- Uncertainty in design\n- Finding reliable contractors\n- Tracking project progress\n- Ensuring quality and warranty\n\nBuilt with **React**, **TypeScript**, **ASP.NET**, and **C#**, the system offers a dynamic and customizable user experience.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/thuhuong0108/DCKoi"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://dckoi-cxyu.vercel.app/"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "ReactJS",
+                "TypeScript",
+                "ASP.NET",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/ministore-poster.png",
+            "title": "MiniStore",
+            "bodyText": "The Mini Store is a software platform designed to efficiently manage a convenience store.\n\nIt provides role-specific features for:\n- **Administrators**\n- **Managers**\n- **Cashiers**\n- **Guards**\n\nCore functionalities include managing:\n- Work schedules\n- Revenue and product inventory\n- Orders and staff\n- Leave requests\n\nThe system streamlines day-to-day operations and enhances staff coordination.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HieuNghia0000/SWP-Team-3"
+                }
+            ],
+            "tags" : [
+                "SolidJS",
+                "TypeScript",
+                "Spring Boot",
+                "Java"
             ]
         }
     ]
